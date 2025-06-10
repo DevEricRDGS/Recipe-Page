@@ -22,7 +22,7 @@ The challenge was to create a simple recipe page using semantic HTML tags and CS
 ### Screenshot
 
 Desktop
-![](./src/images/desktop.mp4)
+![Image](https://github.com/user-attachments/assets/42b01885-ba04-4179-af73-dea97287b267)
 
 Mobile
 ![](./src/images/mobile.mp4.mp4)
