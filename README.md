@@ -30,7 +30,7 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/DevEricRDGS/Recipe-Page/blob/main/index.html)
 - Live Site URL: (https://devericrdgs.github.io/Recipe-Page/)
 
 ## My process
