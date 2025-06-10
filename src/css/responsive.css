@@ -1,0 +1,12 @@
+@media(max-width:520px) {
+    .background-recipe .recipe{
+        width: 100%;
+        margin: 0;
+    }
+
+
+    .background-recipe .recipe img{
+        border-radius: 0;
+        padding: 0;
+    }
+}
